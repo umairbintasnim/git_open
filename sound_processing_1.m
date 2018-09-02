@@ -22,7 +22,7 @@ drum_seg=drums(44100*10:44100*20);
 
 guit_seg=guit(44100*10:44100*20);
 
-%bass_seg = bass_seg*4;
+bass_seg = bass_seg*4;
 %sound(bass_seg,44100);
 %guit_seg=guit_seg*.5;
 
